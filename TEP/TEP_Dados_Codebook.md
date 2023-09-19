@@ -36,27 +36,33 @@ Na seguinte tabela estão especificados os nomes de cada uma das variáveis medi
 
 
 ## Falhas
-A continuação serão mostradas as diferentes falhas e suas origens:
+A continuação serão mostradas as diferentes falhas e sua descrição.
 
 | Número de Falha | Descrição |
 | --- | -------- |
-| Falha 1 |   |
-| Falha 2 |   |
-| Falha 3 |  |
-| Falha 4 |  |
-| Falha 5 |  |
-| Falha 6 |  |
-| Falha 7 |  |
-| Falha 8 |  |
-| Falha 9 |  |
-| Falha 10 |  |
-| Falha 11 |  |
-| Falha 12 |  |
-| Falha 13 |  |
-| Falha 14 |  |
-| Falha 15 |  |
-| Falha 16 |  |
-| Falha 17 |  |
-| Falha 18 |  |
-| Falha 19 |  |
-| Falha 20 |  |
+| Falha 1 |  Degrau na relação A/C da alimentação |
+| Falha 2 |  Degrau na compisição de B |
+| Falha 3 |  Degrau na temperatura da alimentação de D|
+| Falha 4 |  Degrau na temperatura de entrada da água de resfriamento do reator|
+| Falha 5 |  Degrau na temperatura de entrada da água de resfriamento do condensador|
+| Falha 6 |  Perda da alimentação A|
+| Falha 7 |  Perda de pressão no header C|
+| Falha 8 |  Variação aleatória da composição da alimentação de A, B e C|
+| Falha 9 |  Variação aleatória da temperatura de alimentação de D|
+| Falha 10 | Variação aleatória da temperatura de alimentação de C|
+| Falha 11 | Variação aleatória da temperatura de entrada da água de resfriamento do reator |
+| Falha 12 | Variação aleatória da temperatura de entrada da água de resfriamento do condensador |
+| Falha 13 | Desvio lento da cinética do reator |
+| Falha 14 | Válvula da água de resfriamento do reator emperrada |
+| Falha 15 | Válvula da água de resfriamento do condensador emperrada |
+| Falha 16 | Desconhecida|
+| Falha 17 | Desconhecida |
+| Falha 18 | Desconhecida |
+| Falha 19 | Desconhecida |
+| Falha 20 | Desconhecida |
+
+## Referências
+
+RIETH, C., AMSEL, B., TRAN, R., COOK, M. **Additional Tennessee Eastman Process Simulation Data for Anomaly Detection Evaluation**. Harvard Dataverse, 2017. Disponível em: [https://doi.org/10.7910/DVN/6C3JR1](https://doi.org/10.7910/DVN/6C3JR1)
+
+MELO, A., CÂMARA, M., CLAVIJO, N., PINTO, J.C. Open benchmarks for assessment of process monitoring and fault diagnosis techniques: A review and critical analysis. **Computers and Chemical Engineering**, v. 165. Elsevier, 2022. Disponível em: [https://doi.org/10.1016/j.compchemeng.2022.107964](https://doi.org/10.1016/j.compchemeng.2022.107964).  
