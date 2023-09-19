@@ -10,29 +10,29 @@ Esse conjunto de dados é uma adaptação dos dados disponibilizados por [Rieth 
 ## Variáveis
 Na seguinte tabela estão especificados os nomes de cada uma das variáveis medidas e manipuladas.
 
-| Variável | Descrição | | Variável | Descrição || Variável | Descrição |
-| --- | --- | -| --- | --- | -| --- | --- |
-| xmeas_1 | Alimentação A | | xmeas_22| Temperatura de saída da água de refrigeração do separador  | | xmv_2   | vazão de alimentação de E |
-| xmeas_2 | Alimentação D | | xmeas_23| 6A  | | xmv_3   | Vazão de alimentação de A |
-| xmeas_3 | Alimentação E | | xmeas_24| 6B | | xmv_4   | Vazão de alimentação de A e C | 
-| xmeas_4 | Alimentação A e C | | xmeas_25| 6C | | xmv_5   | Válvula do compressor de reciclo |
-| xmeas_5 | Reciclo | | xmeas_26| 6D | | xmv_6   | Válvula de purga |
-| xmeas_6 | Vazão de entrada do reator |  | xmeas_27|6E  | | xmv_7   | Vazão de líquido do separador  |
-| xmeas_7 | Pressão no reator | | xmeas_28| 6F | | xmv_8   | Vazão de líquido do stripper  |
-| xmeas_8 | Nível de líquido no reator | | xmeas_29| 9A | | xmv_9   | Valvula de vapor do stripper |
-| xmeas_9 | Temperatura do reator | | xmeas_30| 9B | | xmv_10   | Vazão da água de resfriamento do reator  |
-| xmeas_10 | Vazão de purga | | xmeas_31| 9C | | xmv_11   | Vazão da água de resfriamento do condensador  |
-| xmeas_11 | Temperatura do separador | | xmeas_32| 9D |
-| xmeas_12 | Nível de líquido no separador | | xmeas_33| 9E  |
-| xmeas_13 | Pressão no separador | | xmeas_34| 9F |
-| xmeas_14 | Vazão de saída de líquido no separador | | xmeas_35| 9G  |
-| xmeas_15 | Nível de líquido no stripper| | xmeas_36| 9H |
-| xmeas_16 | Pressão do stripper| | xmeas_37| 11D |
-| xmeas_17 | Vazão de saída de líquido do stripper | | xmeas_38| 11E |
-| xmeas_18 | Temperatura do stripper| | xmeas_39| 11F |
-| xmeas_19 | Vazão de vapor no stripper | | xmeas_40| 11G |
-| xmeas_20 | Trabalho do compressor  | | xmeas_41| 11H |
-| xmeas_21 | Temperatura de saída da água de resfriamento do reator | | xmv_1| Vazão de alimentação de D |
+| Variável | Descrição | Unidades | Variável | Descrição | Unidades| Variável | Descrição |Unidades|
+| --- | --- | -| --- | --- | -| --- | --- |---|
+| xmeas_1 | Alimentação A | kscmh| xmeas_22| Temperatura de saída da água de refrigeração do separador  | ºC| xmv_2   | vazão de alimentação de E |kg/h
+| xmeas_2 | Alimentação D | kg/h | xmeas_23| 6A  | %mol| xmv_3   | Vazão de alimentação de A |kscmh
+| xmeas_3 | Alimentação E | kg/h| xmeas_24| 6B | %mol| xmv_4   | Vazão de alimentação de A e C | kscmh
+| xmeas_4 | Alimentação A e C |kscmh | xmeas_25| 6C | %mol| xmv_5   | Válvula do compressor de reciclo | %
+| xmeas_5 | Reciclo |kscmh | xmeas_26| 6D | %mol| xmv_6   | Válvula de purga | %
+| xmeas_6 | Vazão de entrada do reator | kscmh | xmeas_27|6E  |%mol | xmv_7   | Vazão de líquido do separador  |m3/h
+| xmeas_7 | Pressão no reator | kPa manométrico | xmeas_28| 6F |%mol | xmv_8   | Vazão de líquido do stripper  |m3/h
+| xmeas_8 | Nível de líquido no reator | % | xmeas_29| 9A |%mol | xmv_9   | Valvula de vapor do stripper |%
+| xmeas_9 | Temperatura do reator | ºC | xmeas_30| 9B |%mol | xmv_10   | Vazão da água de resfriamento do reator  |m3/h
+| xmeas_10 | Vazão de purga | kscmh | xmeas_31| 9C |%mol | xmv_11   | Vazão da água de resfriamento do condensador  |m3/h
+| xmeas_11 | Temperatura do separador | ºC | xmeas_32| 9D |%mol
+| xmeas_12 | Nível de líquido no separador | % | xmeas_33| 9E  |%mol
+| xmeas_13 | Pressão no separador | kPa manométrico| xmeas_34| 9F |%mol
+| xmeas_14 | Vazão de saída de líquido no separador | m3/h | xmeas_35| 9G  |%mol
+| xmeas_15 | Nível de líquido no stripper| %| xmeas_36| 9H |%mol
+| xmeas_16 | Pressão do stripper| kPa manométrico | xmeas_37| 11D |%mol
+| xmeas_17 | Vazão de saída de líquido do stripper | m3/h | xmeas_38| 11E |%mol
+| xmeas_18 | Temperatura do stripper| ºC| xmeas_39| 11F |%mol
+| xmeas_19 | Vazão de vapor no stripper | kg/h | xmeas_40| 11G |%mol
+| xmeas_20 | Trabalho do compressor  | kW| xmeas_41| 11H |%mol
+| xmeas_21 | Temperatura de saída da água de resfriamento do reator | ºC| xmv_1| Vazão de alimentação de D |kg/h
 
 
 ## Falhas
