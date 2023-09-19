@@ -12,27 +12,27 @@ Na seguinte tabela estão especificados os nomes de cada uma das variáveis medi
 
 | Variável | Descrição | | Variável | Descrição || Variável | Descrição |
 | --- | --- | -| --- | --- | -| --- | --- |
-| xmeas_1 | Alimentação A | | xmeas_22|  | | xmv_2   |  |
-| xmeas_2 | Alimentação D | | xmeas_23|  | | xmv_3   |  |
-| xmeas_3 | Alimentação E | | xmeas_24|  | | xmv_4   |  | 
-| xmeas_4 | Alimentação A e C | | xmeas_25|  | | xmv_5   |  |
-| xmeas_5 | Reciclo | | xmeas_26|  | | xmv_6   |  |
-| xmeas_6 | Vazão de entrada do reator | | xmeas_27|  | | xmv_7   |  |
-| xmeas_7 | Pressão no reator | | xmeas_28|  | | xmv_8   |  |
-| xmeas_8 | Nível de líquido no reator | | xmeas_29|  | | xmv_9   |  |
-| xmeas_9 | Temperatura do reator | | xmeas_30|  | | xmv_10   |  |
-| xmeas_10 | Vazão de purga | | xmeas_31|  | | xmv_11   |  |
-| xmeas_11 | Temperatura do separador | | xmeas_32|  |
-| xmeas_12 | Nível de líquido no separador | | xmeas_33|  |
-| xmeas_13 | Vazão de saída de líquido no separador | | xmeas_34|  |
-| xmeas_14 | Temperatura do stripper | | xmeas_35|  |
-| xmeas_15 | Vazão de vapor no stripper | | xmeas_36|  |
-| xmeas_16 | Trabalho do compressor | | xmeas_37|  |
-| xmeas_17 | Temperatura de saída da água de refrigeração do reator | | xmeas_38|  |
-| xmeas_18 |  | | xmeas_39|  |
-| xmeas_19 |  | | xmeas_40|  |
-| xmeas_20 |  | | xmeas_41|  |
-| xmeas_21 |  | | xmv_1   |  |
+| xmeas_1 | Alimentação A | | xmeas_22| Temperatura de saída da água de refrigeração do separador  | | xmv_2   | vazão de alimentação de E |
+| xmeas_2 | Alimentação D | | xmeas_23| 6A  | | xmv_3   | Vazão de alimentação de A |
+| xmeas_3 | Alimentação E | | xmeas_24| 6B | | xmv_4   | Vazão de alimentação de A e C | 
+| xmeas_4 | Alimentação A e C | | xmeas_25| 6C | | xmv_5   | Válvula do compressor de reciclo |
+| xmeas_5 | Reciclo | | xmeas_26| 6D | | xmv_6   | Válvula de purga |
+| xmeas_6 | Vazão de entrada do reator |  | xmeas_27|6E  | | xmv_7   | Vazão de líquido do separador  |
+| xmeas_7 | Pressão no reator | | xmeas_28| 6F | | xmv_8   | Vazão de líquido do stripper  |
+| xmeas_8 | Nível de líquido no reator | | xmeas_29| 9A | | xmv_9   | Valvula de vapor do stripper |
+| xmeas_9 | Temperatura do reator | | xmeas_30| 9B | | xmv_10   | Vazão da água de resfriamento do reator  |
+| xmeas_10 | Vazão de purga | | xmeas_31| 9C | | xmv_11   | Vazão da água de resfriamento do condensador  |
+| xmeas_11 | Temperatura do separador | | xmeas_32| 9D |
+| xmeas_12 | Nível de líquido no separador | | xmeas_33| 9E  |
+| xmeas_13 | Pressão no separador | | xmeas_34| 9F |
+| xmeas_14 | Vazão de saída de líquido no separador | | xmeas_35| 9G  |
+| xmeas_15 | Nível de líquido no stripper| | xmeas_36| 9H |
+| xmeas_16 | Pressão do stripper| | xmeas_37| 11D |
+| xmeas_17 | Vazão de saída de líquido do stripper | | xmeas_38| 11E |
+| xmeas_18 | Temperatura do stripper| | xmeas_39| 11F |
+| xmeas_19 | Vazão de vapor no stripper | | xmeas_40| 11G |
+| xmeas_20 | Trabalho do compressor  | | xmeas_41| 11H |
+| xmeas_21 | Temperatura de saída da água de resfriamento do reator | | xmv_1| Vazão de alimentação de D |
 
 
 ## Falhas
