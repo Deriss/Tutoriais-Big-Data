@@ -18,5 +18,10 @@ O Controle Plant-Wide, como o seu nome o indica, procura fazer o design de siste
 
 ## Conclusão
 
+O uso de Big Data dentro da indústria química é cada vez mais relevante, uma vez que as ferramentas para a análise desse tipo de dados estão sendo rápidamente integradas nas indústrias e já existem diversas aplicações onde o Big Data se mostrou como um diferencial. Nesse artigo foram descritas em particular as possibilidades de utilizar o Big Data no monitoramento de processos e detecção de falhas, na criação de sensores virtuais e no controle de processos. No entanto, ainda existem muitos desafios que devem ser abordados para as indústrias aproveitarem da melhor forma a enorme quantidade de dados que geram diariamente. Entre esses desafios, se destacam a popularização das ferramentas de Big Data entre os usuários dentro das indústrias, a capacitação desses usuários para aproveitar essas ferramentas e a melhora na integração dos dados de diferentes fontes para facilitar o cruzamento de informações relevantes. Em resumo, o uso de Big Data para a engenharia química é um área com grandes perspectivas de crescimento nos próximos anos se os desafios que apresenta forem contornados de forma adequada. 
 
 ## Referências
+
+CHIANG L., LU, B., CASTILLO, I.  Big Data Analytics in Chemical Engineering. **Annual Review of Chemical and Biomolecular Engineering**, v. 8, n. 1, p. 63-85, 2017. Disponível em: [https://doi.org/10.1146/annurev-chembioeng-060816-101555](https://doi.org/10.1146/annurev-chembioeng-060816-101555). Acesso em: 31 ago. 2023. 
+
+SANTANA, Harrson. Ciência de Dados e Digitalização para Engenheiros Químicos. Campinas: Microfluidica & Engenharia Química, 2023. Disponível em: [https://www.blogs.unicamp.br/microfluidicaeengenhariaquimica/2023/05/16/ciencia-de-dados-e-digitalizacao-para-engenheiros-quimicos/](https://www.blogs.unicamp.br/microfluidicaeengenhariaquimica/2023/05/16/ciencia-de-dados-e-digitalizacao-para-engenheiros-quimicos/). Acesso em: 31 ago. 2023.
